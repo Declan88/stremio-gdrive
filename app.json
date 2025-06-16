@@ -3,7 +3,7 @@
   "description": "GDrive video addon for stremio.",
   "keywords": ["gdrive", "stremio"],
   "repository": "https://github.com/ssnjrthegr8/stremio-gdrive",
-  "stack": "heroku-20",
+  "stack": "heroku-22",
   "env": {
     "TOKEN": {
       "description": "Contents of token.json"
